@@ -1,0 +1,2 @@
+# -HEART-DISEASE-PREDICTION-PREDICTION-USING-MACHINE-LEARNING
+This study analyzes the performance of four machine learning algorithms—K-Nearest Neighbors (K-NN), Naive Bayes, Support Vector Machine (SVM), and XGBoost—on a heart disease dataset from the UCI Repository. The goal is to predict heart disease risk based on patient data, enhancing diagnostic accuracy while reducing the need for invasive tests.
